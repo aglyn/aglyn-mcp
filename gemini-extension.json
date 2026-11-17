@@ -1,0 +1,9 @@
+{
+  "name": "aglyn",
+  "version": "1.0.0",
+  "description": "Work in your Aglyn workspace: sites, content, contacts and CRM, orders, forms, bookings and media.",
+  "mcpServers": {
+    "aglyn": { "httpUrl": "https://app.aglyn.com/api/mcp" }
+  },
+  "contextFileName": "GEMINI.md"
+}

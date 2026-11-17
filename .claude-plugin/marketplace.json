@@ -1,0 +1,6 @@
+{
+  "name": "aglyn",
+  "owner": { "name": "Aglyn" },
+  "metadata": { "description": "Work in your Aglyn workspace: sites, content, contacts and CRM, orders, forms, bookings and media." },
+  "plugins": [{ "name": "aglyn", "source": "./", "description": "Work in your Aglyn workspace: sites, content, contacts and CRM, orders, forms, bookings and media." }]
+}
