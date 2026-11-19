@@ -18,15 +18,29 @@ with sign-in. This repository packages it for the ones below.
 | Area | It can |
 | --- | --- |
 | Sites | List your sites, create a site, publish a site |
+| Pages | List a site's pages: their names, addresses, and whether each is published |
+| Search listings | See and change how a site and each of its pages appear in search results: title and short description |
+| Business details | See and change the business name, slogan, phone, email, address and social links |
 | Site content | Read and edit datasets and their records |
 | Contacts and CRM | Find, add, update and merge contacts; companies, deals, tasks, activities, leads, email templates |
 | Form submissions | Read, mark read, delete |
-| Orders and products | Read; mark an order shipped or delivered with tracking |
+| Products | Add, edit and delete products, with their prices and stock; a new product starts as a draft the store does not show |
+| Orders | Read; mark an order shipped or delivered with tracking |
 | Bookings | Read |
 | Media | List and upload |
 
-It cannot cancel or refund an order, move or cancel a booking, rename or
-delete a site, or change your team, plan or billing.
+Changes to products, search listings and business details show on the live
+site as soon as they are saved. There is no draft and no publish step, so
+read what the assistant proposes before you approve it.
+
+It cannot change what is on a page or how it looks, change themes, cancel or
+refund an order, move or cancel a booking, rename or delete a site, replace or
+delete media, or change your team, plan or billing. Variants follow a
+product's options, such as sizes and colors, so a single variant is not added
+or removed on its own.
+
+Connected before products, search listings, pages and business details were
+added? Disconnect and connect again, and approve the new list, to use them.
 
 ## Install
 

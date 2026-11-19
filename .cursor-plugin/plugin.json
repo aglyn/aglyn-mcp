@@ -1,7 +1,7 @@
 {
   "name": "aglyn",
   "version": "1.0.0",
-  "description": "Work in your Aglyn workspace: sites, content, contacts and CRM, orders, forms, bookings and media.",
+  "description": "Work in your Aglyn workspace: sites and their search listings, business details, content, contacts and CRM, products, orders, forms, bookings and media.",
   "author": { "name": "Aglyn" },
   "homepage": "https://aglyn.com",
   "repository": "https://github.com/aglyn/aglyn-mcp",
