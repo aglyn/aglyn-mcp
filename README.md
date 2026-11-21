@@ -18,7 +18,9 @@ with sign-in. This repository packages it for the ones below.
 | Area | It can |
 | --- | --- |
 | Sites | List your sites, create a site, publish a site |
-| Pages | List a site's pages: their names, addresses, and whether each is published |
+| Pages | List a site's pages and folders: their names, addresses, and whether each is published. Add a page, blank or from a template. Rename a page, change its address, move it or delete it. Publish the pages you choose |
+| What is on a page | Read a page. Change its text, pictures and links, its spacing, alignment and other styles, and add, move or remove parts of it. Saved as a draft you review in the editor before it is published |
+| Templates | List the page templates a new page can start from |
 | Search listings | See and change how a site and each of its pages appear in search results: title and short description |
 | Business details | See and change the business name, slogan, phone, email, address and social links |
 | Site content | Read and edit datasets and their records |
@@ -29,18 +31,26 @@ with sign-in. This repository packages it for the ones below.
 | Bookings | Read |
 | Media | List and upload |
 
-Changes to products, search listings and business details show on the live
-site as soon as they are saved. There is no draft and no publish step, so
-read what the assistant proposes before you approve it.
+Changes to what is on a page are saved as a draft, and a new page has no
+address until it is published. Visitors see neither until the page is
+published, by you in the editor or by the assistant when you ask it to.
 
-It cannot change what is on a page or how it looks, change themes, cancel or
+Changes to products, search listings and business details show on the live
+site as soon as they are saved. So do changes to a page that is already
+published: its name, its address, where it sits, and deleting it. There is no
+draft and no publish step for these, so read what the assistant proposes
+before you approve it.
+
+It cannot change a site's theme, its layouts, your reusable components or the
+templates themselves, and it cannot redesign a whole site. On a page it cannot
+set rich text with mixed formatting or pick an icon. It cannot cancel or
 refund an order, move or cancel a booking, rename or delete a site, replace or
 delete media, or change your team, plan or billing. Variants follow a
 product's options, such as sizes and colors, so a single variant is not added
 or removed on its own.
 
-Connected before products, search listings, pages and business details were
-added? Disconnect and connect again, and approve the new list, to use them.
+Connected before a tool you want was added? Disconnect and connect again, and
+approve the new list, to use it.
 
 ## Install
 

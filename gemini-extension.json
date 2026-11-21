@@ -1,7 +1,7 @@
 {
   "name": "aglyn",
-  "version": "1.1.0",
-  "description": "Work in your Aglyn workspace: sites and their search listings, business details, content, contacts and CRM, products, orders, forms, bookings and media.",
+  "version": "1.2.0",
+  "description": "Work in your Aglyn workspace: sites and their pages, search listings, business details, content, contacts and CRM, products, orders, forms, bookings and media.",
   "mcpServers": {
     "aglyn": { "httpUrl": "https://app.aglyn.com/api/mcp" }
   },
